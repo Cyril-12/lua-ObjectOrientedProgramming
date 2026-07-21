@@ -68,11 +68,11 @@ end
 ## Architecture
 
 ```text
-             Object
+              Object
                 │
-        ┌───────┴────────┐
+        ┌──────┴───────┐
         │                │
-     Person          AnotherClass
+     Person           AnotherClass
         │
      Student
 ```
